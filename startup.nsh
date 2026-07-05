@@ -33,6 +33,6 @@ pause
 exit
 
 :RUN
-lgdbCV8K.efi /BS "271414864130147"
-lgdbCV8K.efi /SU "28084F3483694EAB95508F1E97A96594"
+lgdbCV8K.efi /BS "unknown"
+lgdbCV8K.efi /SU AUTO
 exit
